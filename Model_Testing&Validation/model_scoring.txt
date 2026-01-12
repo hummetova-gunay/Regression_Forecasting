@@ -1,0 +1,5 @@
+Model Scoring steps need to be considered before starting to modeling:
+1. Split the data into train and test sets
+2. Select validation method: use cross validation or split the training set into training and validation sets
+3. Tune the model using validation data
+4. Score the model using test data

@@ -1,0 +1,16 @@
+When splitting the data for training and testing there are two types of errors can occur:
+
+- Bias: how much the model fails to capture the relationship in our train data. 
+Low bias -> would fit training data well. 
+High bias -> model would not fit our train data very well
+
+
+- Variance : How well the model performs on our test set
+Low Variance -> Model tends to perform as well on our test set as it does on the train set
+High Variance -> Model tends to perform poorly on out-of-sample data
+
+Overfit model has low bias, high variance
+
+Well-fit model has medium bias, medium variance
+
+Underfit model has high bias, low variance

@@ -1,0 +1,3 @@
+Metrics and Statistical tests help evaluate the quality of linear regression models.
+Simple linear regression models use single feature to predict the target
+Least Squared Error: It finds the line best  fits through the data.
